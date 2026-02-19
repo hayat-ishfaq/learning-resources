@@ -16,10 +16,15 @@ This repository serves as a centralized hub for:
 
 ## 🎯 Topics
 
-- [ ] Programming Concepts
+- [ ] Programming Fundamentals
+- [ ] Object Oriented Programming OOPs
 - [ ] Algorithms & Data Structures
 - [ ] System Design
 - [ ] Development Tools
+- [ ] Databases
+- [ ] Web/Networking
+- [ ] Operating Systems & Computer Fundamentals
+- [ ] Testing & Quality Assurance
 - [ ] Other topics (to be added)
 
 ## 🚀 Getting Started
