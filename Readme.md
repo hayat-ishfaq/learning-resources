@@ -25,6 +25,7 @@ This repository serves as a centralized hub for:
 - [ ] Web/Networking
 - [ ] Operating Systems & Computer Fundamentals
 - [ ] Testing & Quality Assurance
+- [ ] Artificial Intelligence AI
 - [ ] Other topics (to be added)
 
 ## 🚀 Getting Started
