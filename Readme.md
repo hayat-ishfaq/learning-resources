@@ -16,16 +16,8 @@ This repository serves as a centralized hub for:
 
 ## 🎯 Topics
 
-- [ ] Programming Fundamentals
-- [ ] Object Oriented Programming OOPs
-- [ ] Algorithms & Data Structures
-- [ ] System Design
-- [ ] Development Tools
-- [ ] Databases
-- [ ] Web/Networking
-- [ ] Operating Systems & Computer Fundamentals
-- [ ] Testing & Quality Assurance
 - [ ] Artificial Intelligence AI
+- [ ] Software Engineering Fundamentals
 - [ ] Other topics (to be added)
 
 ## 🚀 Getting Started
