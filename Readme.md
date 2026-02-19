@@ -16,8 +16,10 @@ This repository serves as a centralized hub for:
 
 ## 🎯 Topics
 
-- [ ] Artificial Intelligence AI
 - [ ] Software Engineering Fundamentals
+- [ ] Ai Automation
+- [ ] Flutter App Development
+- [ ] Data Analysis
 - [ ] Other topics (to be added)
 
 ## 🚀 Getting Started
