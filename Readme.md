@@ -18,6 +18,8 @@ Resources for building automations with n8n:
 
 Learning resources for Excel and Power BI:
 
+- [Statistics notes for data analysis](data_analysis/Statistics_Notes_Data_Analysis.pdf)
+- [Math notes for data analysis](data_analysis/MathNotes_for_DataAnalysis.pdf)
 - [Excel analysis](data_analysis/DataAnalysis_in_Excel.pdf)
 - [Excel formulas, cleaning, charts, and pivot tables](<data_analysis/Excel Notes Formulas, Cleaning, Charts and Pivot Tables.pdf>)
 - [Power BI analysis](data_analysis/DataAnalysis_in_PowerBi.pdf)
@@ -42,4 +44,6 @@ New notes and resources should be added to the folder for their topic. Add a new
 
 ---
 
-*Last updated: October 13, 2026*
+*Last updated: October 14, 2026*
+
+
